@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="war" name="ppl:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
+    <output-path>C:/Program Files/Tomcat 9.0/webapps</output-path>
     <properties id="maven-jee-properties">
       <options>
         <module>ppl</module>
